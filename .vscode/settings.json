@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "project",
+        "kind",
+        "language",
+        "cppdialect",
+        "files",
+    ]
+
+}
